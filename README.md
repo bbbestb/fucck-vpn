@@ -1,56 +1,7 @@
 
 <p><a name="best-vpns-for-china"></a>基于我们最新的VPN中国大陆测试，以下是我们的最新翻墙VPN推荐和VPN排行。这些中国还能用的VPN都同时提供电脑VPN翻墙软件和手机用的VPN客户端（APP）。</p>
 <h2 id="在中国最好用的vpn排行-电脑vpn-手机vpn">在中国最好用的VPN排行（电脑VPN、手机VPN）：</h2>
-<div class="wpsm-comptable-wrap">
-<table id="wpsm-table-2" class="wpsm-comptable center-table-align wpsm-comptable-responsive">
-<thead class="wpsm-thead wpsm-thead-default">
-<tr>
-<th class="placeholder wpsm-placeholder"></th>
-<th>VPN</th>
-<th>评级</th>
-<th>链接</th>
-</tr>
-</thead>
-<tbody class="wpsm-tbody">
-<tr> <td> <strong># 1</strong> </td>
-<td> <a href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=wuxianab&data1=fucckvpn" target="_blank" rel="nofollow"><img loading="lazy" width="300" height="80" alt="ExpressVPN" title="ExpressVPN" data-src="https://www.vpndada.com/wp-content/uploads/2021/01/long-logo-expressvpn-new.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img loading="lazy"  width="300" height="80" alt="ExpressVPN" title="ExpressVPN" data-src="https://www.vpndada.com/wp-content/uploads/2021/01/long-logo-expressvpn-new.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img loading="lazy" src="https://www.vpndada.com/wp-content/uploads/2021/01/long-logo-expressvpn-new.png" width="300" height="80" alt="ExpressVPN" title="ExpressVPN"  /></noscript></noscript></a>
-</td>
-<td> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i><br />
-<a href="/expressvpn-review-cn/" target="_blank" style="color: #666; text-decoration: underline">ExpressVPN 评测（中文）</a> </td>
-<td> <a class="btn btn-lg red-btn" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=wuxianab&data1=fucckvpn" target="_blank" rel="nofollow">» <strong>访问
-ExpressVPN</strong> </a><br />
-<span>(含三个月免费折扣)</span> </td>
-</tr>
-<tr> <td> <strong># 2</strong> </td>
-<td> <a href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=wuxianab&aff_click_id=fucckvpn" target="_blank" rel="nofollow"><img loading="lazy" width="300" height="80" alt="NordVPN" title="NordVPN" data-src="https://www.vpndada.com/wp-content/uploads/2018/10/logo-nordvpn.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img loading="lazy"  width="300" height="80" alt="NordVPN" title="NordVPN" data-src="https://www.vpndada.com/wp-content/uploads/2018/10/logo-nordvpn.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img loading="lazy" src="https://www.vpndada.com/wp-content/uploads/2018/10/logo-nordvpn.png" width="300" height="80" alt="NordVPN" title="NordVPN" /></noscript></noscript></a> </td>
-<td> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star-empty"></i><br />
-<a href="/nordvpn-review-cn/" target="_blank" style="color: #666; text-decoration: underline">NordVPN 评测（中文）</a> </td>
-<td> <a class="btn btn-lg red-btn" href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=wuxianab&aff_click_id=fucckvpn" target="_blank" rel="nofollow">» <strong>访问 NordVPN</strong> </a><br />
-<span>(含优惠折扣)</spn> </td>
-</tr>
-<tr> <td> <strong># 3</strong> </td>
-<td> <a href="/go/surfshark" target="_blank" rel="nofollow"><img loading="lazy" width="300" height="80" alt="Surfshark VPN" title="Surfshark VPN" data-src="https://www.vpndada.com/wp-content/uploads/2020/08/logo-surfshark-vpn.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img loading="lazy"  width="300" height="80" alt="Surfshark VPN" title="Surfshark VPN" data-src="https://www.vpndada.com/wp-content/uploads/2020/08/logo-surfshark-vpn.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img loading="lazy" src="https://www.vpndada.com/wp-content/uploads/2020/08/logo-surfshark-vpn.png" width="300" height="80" alt="Surfshark VPN" title="Surfshark VPN" /></noscript></noscript></a> </td>
-<td> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star-empty"></i><br /> </td>
-<td> <a class="btn btn-lg red-btn" href="/go/surfshark" target="_blank" rel="nofollow">» <strong>访问 Surfshark</strong> </a><br />
-<span>(含优惠折扣)</span> </td>
- </tr>
-<tr> <td> <strong># 4</strong> </td>
-<td> <a href="/go/purevpn-cn" target="_blank" rel="nofollow"><img loading="lazy" width="300" height="80" alt="PureVPN" title="PureVPN" data-src="https://www.vpndada.com/wp-content/uploads/2016/08/long-logo-purevpn.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img loading="lazy"  width="300" height="80" alt="PureVPN" title="PureVPN" data-src="https://www.vpndada.com/wp-content/uploads/2016/08/long-logo-purevpn.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img loading="lazy" src="https://www.vpndada.com/wp-content/uploads/2016/08/long-logo-purevpn.png" width="300" height="80" alt="PureVPN" title="PureVPN" /></noscript></noscript></a> </td>
-<td> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star-empty"></i><br />
-<a href="/purevpn-review/" target="_blank" style="color: #666; text-decoration: underline">PureVPN 评测（英文）</a> </td>
-<td> <a class="btn btn-lg red-btn" href="/go/purevpn-cn" target="_blank" rel="nofollow">» <strong>访问 PureVPN</strong> </a><br />
-<span>(含优惠折扣)</span> </td>
-</tr>
-<tr> <td> <strong># 5</strong> </td>
-<td> <a href="/go/vyprvpn-cn" target="_blank" rel="nofollow"><img loading="lazy" width="300" height="80" alt="VyprVPN" title="VyprVPN" data-src="https://www.vpndada.com/wp-content/uploads/2015/10/long-logo-vyprvpn.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img loading="lazy"  width="300" height="80" alt="VyprVPN" title="VyprVPN" data-src="https://www.vpndada.com/wp-content/uploads/2015/10/long-logo-vyprvpn.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img loading="lazy" src="https://www.vpndada.com/wp-content/uploads/2015/10/long-logo-vyprvpn.png" width="300" height="80" alt="VyprVPN" title="VyprVPN" /></noscript></noscript></a> </td>
-<td> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star-empty"></i><br />
-<a href="/vyprvpn-review-cn/" target="_blank" style="color: #666; text-decoration: underline">VyprVPN 评测（中文）</a> </td>
-<td> <a class="btn btn-lg red-btn" href="/go/vyprvpn-cn" target="_blank" rel="nofollow">» <strong>访问 VyprVPN</strong> </a><br />
-<span>(含优惠折扣)</span> </td>
-</tr>
-</tbody>
-</table>
-</div>
+
 <p>以下是我们对目前中国最好用的翻墙软件VPN推荐（基于VPN中国实测）：</p>
 <h2 id="中国最好用的vpn翻墙软件">中国最好用的VPN翻墙软件:</h2>
 <div class="wp-container-620e1cf2194db wp-block-group shadow-box"><div class="wp-block-group__inner-container">
@@ -111,59 +62,7 @@ ExpressVPN</strong> </a><br />
 <p>很多网友为了省钱，不想付费购买VPN，而是到处寻找免费VPN来翻墙。事实上，从几年前开始免费VPN在中国大陆就已经几乎完全不能用了。试想一下，面对GFW防火墙如此疯狂的VPN封杀，连大部分付费VPN都已经败下阵来，何况是免费VPN呢？此外，最近不少新闻和数据显示，很多所谓的“免费VPN“其实是钓鱼软件或是想要窃取用户个人及上网信息的间谍软件，而且其中不少免费VPN背后的公司竟然都来自中国大陆。所以，即使是从自己上网安全的角度考虑，也要尽量远离免费VPN。如果寻找免费VPN只是为了省钱，其实很多付费VPN服务商（如ExpressVPN）都提供30天无理由退款保证，相当于30天的VPN免费试用期，购买了这个VPN，只要不超过30天，可以全额退款，其实就相当于免费使用VPN了。</p>
 <h3 class="sm-title" id="7-为防止vpn被封-准备备用vpn">7. 为防止VPN被封，准备备用VPN</h3>
 <p>由于GFW会不断更新，现有的中国还能用的VPN说不定会在将来的一天变得不好用。如果使用翻墙VPN对您来说非常重要，建议您为最坏的情况做准备，考虑备份解决方案。许多人选择注册不止一种VPN服务。万一其中一个VPN发生故障，可以改用另一种VPN翻墙。</p>
-<hr class="wp-block-separator is-style-dots" />
-<h2 id="总结">总结：</h2>
-<p>目前在中国大陆翻墙越来越难，好用的翻墙软件VPN越来越少。基于大量的电脑VPN翻墙软件和手机VPN APP测试，下面是我们推荐的翻墙VPN排行：</p>
-<div class="wpsm-comptable-wrap">
-<table id="wpsm-table-2" class="wpsm-comptable center-table-align wpsm-comptable-responsive">
-<thead class="wpsm-thead wpsm-thead-default">
-<tr>
-<th class="placeholder wpsm-placeholder"></th>
-<th>VPN</th>
 
-<th>评级</th>
-</tr>
-</thead>
-<tbody class="wpsm-tbody">
-<tr> <td> <strong># 1</strong> </td>
-<td> <a href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=wuxianab&data1=fucckvpn" target="_blank" rel="nofollow"><img loading="lazy" width="300" height="80" alt="ExpressVPN" title="ExpressVPN" data-src="https://www.vpndada.com/wp-content/uploads/2021/01/long-logo-expressvpn-new.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img loading="lazy"  width="300" height="80" alt="ExpressVPN" title="ExpressVPN" data-src="https://www.vpndada.com/wp-content/uploads/2021/01/long-logo-expressvpn-new.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img loading="lazy" src="https://www.vpndada.com/wp-content/uploads/2021/01/long-logo-expressvpn-new.png" width="300" height="80" alt="ExpressVPN" title="ExpressVPN"  /></noscript></noscript></a>
-</td>
-<td> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i><br />
-<a href="/expressvpn-review-cn/" target="_blank" style="color: #666; text-decoration: underline">ExpressVPN 评测（中文）</a> </td>
-<td> <a class="btn btn-lg red-btn" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=wuxianab&data1=fucckvpn" target="_blank" rel="nofollow">» <strong>访问
-ExpressVPN</strong> </a><br />
-<span>(含三个月免费折扣)</span> </td>
-</tr>
-<tr> <td> <strong># 2</strong> </td>
-<td> <a href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=wuxianab&aff_click_id=fucckvpn" target="_blank" rel="nofollow"><img loading="lazy" width="300" height="80" alt="NordVPN" title="NordVPN" data-src="https://www.vpndada.com/wp-content/uploads/2018/10/logo-nordvpn.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img loading="lazy"  width="300" height="80" alt="NordVPN" title="NordVPN" data-src="https://www.vpndada.com/wp-content/uploads/2018/10/logo-nordvpn.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img loading="lazy" src="https://www.vpndada.com/wp-content/uploads/2018/10/logo-nordvpn.png" width="300" height="80" alt="NordVPN" title="NordVPN" /></noscript></noscript></a> </td>
-<td> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star-empty"></i><br />
-<a href="/nordvpn-review-cn/" target="_blank" style="color: #666; text-decoration: underline">NordVPN 评测（中文）</a> </td>
-<td> <a class="btn btn-lg red-btn" href="https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=wuxianab&aff_click_id=fucckvpn" target="_blank" rel="nofollow">» <strong>访问 NordVPN</strong> </a><br />
-<span>(含优惠折扣)</spn> </td>
-</tr>
-<tr> <td> <strong># 3</strong> </td>
-<td> <a href="/go/surfshark" target="_blank" rel="nofollow"><img loading="lazy" width="300" height="80" alt="Surfshark VPN" title="Surfshark VPN" data-src="https://www.vpndada.com/wp-content/uploads/2020/08/logo-surfshark-vpn.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img loading="lazy"  width="300" height="80" alt="Surfshark VPN" title="Surfshark VPN" data-src="https://www.vpndada.com/wp-content/uploads/2020/08/logo-surfshark-vpn.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img loading="lazy" src="https://www.vpndada.com/wp-content/uploads/2020/08/logo-surfshark-vpn.png" width="300" height="80" alt="Surfshark VPN" title="Surfshark VPN" /></noscript></noscript></a> </td>
-<td> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star-empty"></i><br /> </td>
-<td> <a class="btn btn-lg red-btn" href="/go/surfshark" target="_blank" rel="nofollow">» <strong>访问 Surfshark</strong> </a><br />
-<span>(含优惠折扣)</span> </td>
-</tr>
-<tr> <td> <strong># 4</strong> </td>
-<td> <a href="/go/purevpn-cn" target="_blank" rel="nofollow"><img loading="lazy" width="300" height="80" alt="PureVPN" title="PureVPN" data-src="https://www.vpndada.com/wp-content/uploads/2016/08/long-logo-purevpn.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img loading="lazy"  width="300" height="80" alt="PureVPN" title="PureVPN" data-src="https://www.vpndada.com/wp-content/uploads/2016/08/long-logo-purevpn.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img loading="lazy" src="https://www.vpndada.com/wp-content/uploads/2016/08/long-logo-purevpn.png" width="300" height="80" alt="PureVPN" title="PureVPN" /></noscript></noscript></a> </td>
-<td> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star-empty"></i><br />
-<a href="/purevpn-review/" target="_blank" style="color: #666; text-decoration: underline">PureVPN 评测（英文）</a> </td>
-<td> <a class="btn btn-lg red-btn" href="/go/purevpn-cn" target="_blank" rel="nofollow">» <strong>访问 PureVPN</strong> </a><br />
-<span>(含优惠折扣)</span> </td>
-</tr>
-<tr> <td> <strong># 5</strong> </td>
-<td> <a href="/go/vyprvpn-cn" target="_blank" rel="nofollow"><img loading="lazy" width="300" height="80" alt="VyprVPN" title="VyprVPN" data-src="https://www.vpndada.com/wp-content/uploads/2015/10/long-logo-vyprvpn.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img loading="lazy"  width="300" height="80" alt="VyprVPN" title="VyprVPN" data-src="https://www.vpndada.com/wp-content/uploads/2015/10/long-logo-vyprvpn.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img loading="lazy" src="https://www.vpndada.com/wp-content/uploads/2015/10/long-logo-vyprvpn.png" width="300" height="80" alt="VyprVPN" title="VyprVPN" /></noscript></noscript></a> </td>
-<td> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star"></i> <i class="wpsm-table-icon wpsm-icon-star-empty"></i><br />
-<a href="/vyprvpn-review-cn/" target="_blank" style="color: #666; text-decoration: underline">VyprVPN 评测（中文）</a> </td>
-<td> <a class="btn btn-lg red-btn" href="/go/vyprvpn-cn" target="_blank" rel="nofollow">» <strong>访问 VyprVPN</strong> </a><br />
-<span>(含优惠折扣)</span> </td>
-</tr>
-</tbody>
-</table>
-</div>
 <p></p>
 </div>
 </article>
