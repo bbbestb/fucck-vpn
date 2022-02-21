@@ -2,6 +2,17 @@
 <p><a name="best-vpns-for-china"></a>基于我们最新的VPN中国大陆测试，以下是我们的最新翻墙VPN推荐和VPN排行。这些中国还能用的VPN都同时提供电脑VPN翻墙软件和手机用的VPN客户端（APP）。</p>
 <h2 id="在中国最好用的vpn排行-电脑vpn-手机vpn">在中国最好用的VPN排行（电脑VPN、手机VPN）：</h2>
 
+
+|  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
+|  ----  | ----  | ---- | ---- | ---- |
+| Ivacy梯子 | ⭐⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=wuxianab&data2=fucckvpn) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/wuxianab/fucckvpn) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=wuxianab&data2=fucckvpn) |
+| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=wuxianab&aff_click_id=fucckvpn) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=wuxianab&aff_sub2=fucckvpn) | - |
+| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=wuxianab&data1=fucckvpn) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=wuxianab&data1=fucckvpn) | [备用地址2](https://www.linkev.com/?a_fid=tizi_vpn&chan=wuxianab&data1=fucckvpn) |
+| 熊猫梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
+| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=wuxianab&data2=fucckvpn) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=wuxianab&data2=fucckvpn) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=wuxianab&data2=fucckvpn) |
+| Pure梯子 | ⭐⭐⭐ | [Pure官方网址](https://billing.purevpn.com/aff.php?aff=42611&data1=wuxianab&data2=fucckvpn) | - | - |
+
+
 <p>以下是我们对目前中国最好用的翻墙软件VPN推荐（基于VPN中国实测）：</p>
 <h2 id="中国最好用的vpn翻墙软件">中国最好用的VPN翻墙软件:</h2>
 <div class="wp-container-620e1cf2194db wp-block-group shadow-box"><div class="wp-block-group__inner-container">
@@ -62,6 +73,16 @@
 <p>很多网友为了省钱，不想付费购买VPN，而是到处寻找免费VPN来翻墙。事实上，从几年前开始免费VPN在中国大陆就已经几乎完全不能用了。试想一下，面对GFW防火墙如此疯狂的VPN封杀，连大部分付费VPN都已经败下阵来，何况是免费VPN呢？此外，最近不少新闻和数据显示，很多所谓的“免费VPN“其实是钓鱼软件或是想要窃取用户个人及上网信息的间谍软件，而且其中不少免费VPN背后的公司竟然都来自中国大陆。所以，即使是从自己上网安全的角度考虑，也要尽量远离免费VPN。如果寻找免费VPN只是为了省钱，其实很多付费VPN服务商（如ExpressVPN）都提供30天无理由退款保证，相当于30天的VPN免费试用期，购买了这个VPN，只要不超过30天，可以全额退款，其实就相当于免费使用VPN了。</p>
 <h3 class="sm-title" id="7-为防止vpn被封-准备备用vpn">7. 为防止VPN被封，准备备用VPN</h3>
 <p>由于GFW会不断更新，现有的中国还能用的VPN说不定会在将来的一天变得不好用。如果使用翻墙VPN对您来说非常重要，建议您为最坏的情况做准备，考虑备份解决方案。许多人选择注册不止一种VPN服务。万一其中一个VPN发生故障，可以改用另一种VPN翻墙。</p>
+
+
+|  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
+|  ----  | ----  | ---- | ---- | ---- |
+| Ivacy梯子 | ⭐⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=wuxianab&data2=fucckvpn) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/wuxianab/fucckvpn) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=wuxianab&data2=fucckvpn) |
+| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=wuxianab&aff_click_id=fucckvpn) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=wuxianab&aff_sub2=fucckvpn) | - |
+| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=wuxianab&data1=fucckvpn) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=wuxianab&data1=fucckvpn) | [备用地址2](https://www.linkev.com/?a_fid=tizi_vpn&chan=wuxianab&data1=fucckvpn) |
+| 熊猫梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
+| Strong梯子 | ⭐⭐⭐ | [Strong官方网址](https://strongvpn.com/?tr_aid=5f856c291d7a8&data1=wuxianab&data2=fucckvpn) | [Strong备用网址1](https://reliablevpn.net/?tr_aid=5f856c291d7a8&data1=wuxianab&data2=fucckvpn) | [Strong备用网址2](https://strongtech.org/?tr_aid=5f856c291d7a8&data1=wuxianab&data2=fucckvpn) |
+| Pure梯子 | ⭐⭐⭐ | [Pure官方网址](https://billing.purevpn.com/aff.php?aff=42611&data1=wuxianab&data2=fucckvpn) | - | - |
 
 <p></p>
 </div>
