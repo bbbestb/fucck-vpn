@@ -1,3 +1,22 @@
+# [💚💚💚💚💚 10年经验老铁测评，最新权威，点击查看攻略，拒绝跑路VPN！](https://cntizi1.com/?gitwuxianab-fucckvpn-desc)
+
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="utf-8">
+</head>
+<body>
+<a href="https://cntizi1.com/?gitwuxianab-fucckvpn-pic"><img src="https://cntizi1.com/images/recommend.png" target="_blank"> </a>
+</body>
+</html>
+
+
+---------
+
+--------
+
+
+
 <h2 id="在中国最好用的vpn排行-电脑vpn-手机vpn">在中国最好用的VPN排行（电脑VPN、手机VPN）：</h2>
 
 
